@@ -1,4 +1,4 @@
-# Hi there, I'm [AABDANE ABDELKARIM] 👋
+# Hi there, I'm AABDANE ABDELKARIM 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Microservices+Enthusiast;Java+Developer;Distributed+Systems+Enthusiast;Software+Architecture+Student" alt="Typing SVG" />
