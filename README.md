@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer specializing in distributed systems and microservices architecture. Currently focused on building scalable backend solutions with Java, Spring Boot, and event-driven architectures. I love exploring new technologies while creating robust enterprise applications.
+I am a passionate student and researcher, dedicated to exploring and developing innovative solutions for common challenges in distributed systems and software architectures. My work is driven by my own research and reflections, and all the architectures in my repositories are the result of my personal investigations. Currently, I am focused on creating scalable backend solutions using Java, Spring Boot, and event-driven architectures, while continuously learning and experimenting with new technologies to build robust, real-world enterprise applications.
 
 <!-- GitHub Stats -->
 <div align="center">
