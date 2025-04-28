@@ -13,6 +13,9 @@ I am a passionate student and researcher, dedicated to exploring and developing 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aabdeab&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabdeab&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aabdeab&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views Counter"/>
+</div>
 
 ## 💼 Skills & Technologies
 
